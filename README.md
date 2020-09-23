@@ -1,10 +1,10 @@
-H1 Treehouse Techdegree PHP - Project 7 - UNIT TESTING 
+# H1 Treehouse Techdegree PHP - Project 7 - UNIT TESTING 
 =============
 
-#How will graded?
+### How will graded?
 -------------
 
-# PHP Techdegree Project 7 - Todo API with Laravel
+### PHP Techdegree Project 7 - Todo API with Laravel
 
 <!-- step -->
 ### Crate a Laravel app and connect it to a **MySQL** database using the .env file. 
